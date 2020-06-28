@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Temp
+/ServerData
+/Output
+/Library
+/HostedData/Android

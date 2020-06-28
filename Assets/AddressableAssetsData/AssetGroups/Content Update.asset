@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Content Update
+  m_EditorClassIdentifier: 
+  m_GroupName: Content Update
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7b351d045aae2404c93ba5d6dad8e905
+  m_SerializeEntries:
+  - m_GUID: 8d784517dc53a6f48a9ae9297190962d
+    m_Address: Assets/Doozy/Examples/Materials/Effects/FireSpikes.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f4d9698c7128c1743b666186baf87705, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 383561f0beb9e7c479f31c1c61f93a19, type: 2}
+    - {fileID: 11400000, guid: 5a2b1fe139193d040af7a71221ae72de, type: 2}
