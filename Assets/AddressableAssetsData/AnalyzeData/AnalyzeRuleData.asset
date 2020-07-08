@@ -14,10 +14,362 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_RuleToResults:
   - RuleName: Check Duplicate Bundle Dependencies
-    Results: []
+    Results:
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/TextMesh
+        Pro/Fonts/LiberationSans.ttf
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-from-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-from-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-from-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-from-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-up.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-up.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-up.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-up.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Sound Wave Right.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Sound Wave Right.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Sound Wave Right.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Sound Wave Right.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-left.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_1@24px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_1@24px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_1@24px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_1@24px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Window.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Window.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Window.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Window.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Title.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Title.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Title.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Sprites/UI/SF
+        Title.psd
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Computer.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Computer.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Computer.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Computer.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Wallpapers/Wallpaper
+        6.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Wallpapers/Wallpaper
+        6.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Wallpapers/Wallpaper
+        6.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Wallpapers/Wallpaper
+        6.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_4@1024px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_4@1024px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_4@1024px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_4@1024px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Animation/UI/SF
+        Button.controller
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+      m_Severity: 2
+    - m_ResultName: Check Duplicate Bundle Dependencies:Scenes:scenes_scenes_all.bundle:Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+      m_Severity: 2
   - RuleName: Check Resources to Addressable Duplicate Dependencies
-    Results: []
+    Results:
+    - m_ResultName: Check Resources to Addressable Duplicate Dependencies - No issues
+        found.
+      m_Severity: 0
   - RuleName: Check Scene to Addressable Duplicate Dependencies
-    Results: []
+    Results:
+    - m_ResultName: Check Scene to Addressable Duplicate Dependencies - No issues
+        found.
+      m_Severity: 0
   - RuleName: Build Bundle Layout
-    Results: []
+    Results:
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Explicit:Assets/Doozy/Examples/Materials/Effects/FireSpikes.mat
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Explicit:Assets/Scenes/MainScene.unity
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Explicit:Assets/Scenes/SplashScene.unity
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Misc/FireSpikes.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-from-left.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-up.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Sound Wave Right.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-left.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_1@24px.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Sprites/UI/SF Window.psd
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Sprites/UI/SF Title.psd
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Computer.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Wallpapers/Wallpaper
+        6.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_4@1024px.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Animation/UI/SF Button.controller
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Animation/UI/SF Button.controller
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Animation/UI/SF Button.controller
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Animation/UI/SF Button.controller
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Animation/UI/SF Button.controller
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/MaShanZheng-Regular.ttf
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-from-left.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-up.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Sound Wave Right.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Icons/Awesome/arrow-alt-left.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_1@24px.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Sprites/UI/SF Window.psd
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Sprites/UI/SF Title.psd
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Artwork/Artwork
+        - Computer.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Wallpapers/Wallpaper
+        6.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Shapes/SquareStroke_4@1024px.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/LiberationSans SDF - Fallback.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/MaShanZheng-Regular SDF2048.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/MaShanZheng-Regular SDF2048.asset
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+      m_Severity: 0
+    - m_ResultName: scenes_scenes_all.bundle:Implicit:Assets/TextMesh Pro/Resources/Fonts
+        & Materials/MaShanZheng-Regular SDF2048.asset
+      m_Severity: 0

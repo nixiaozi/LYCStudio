@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LYCScene.unity
     guid: 0e078728509d68f499e6ad0a1a0aa329
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: f42cf967d800c35448a7b7212d9f0df2,
       type: 2}

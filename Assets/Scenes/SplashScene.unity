@@ -799,7 +799,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u6570\u636E\u52A0\u8F7D\u4E2D 100%"
+  m_text: Asset Data Loading 100%
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f2fd7c26a9165924b93a0280d7e0cfb9, type: 2}
   m_sharedMaterial: {fileID: -3201374654431154054, guid: f2fd7c26a9165924b93a0280d7e0cfb9,
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 25.5
+  m_fontSize: 18
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -869,10 +869,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1859584229}
-    characterCount: 10
+    characterCount: 23
     spriteCount: 0
-    spaceCount: 1
-    wordCount: 2
+    spaceCount: 3
+    wordCount: 4
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -909,7 +909,7 @@ MonoBehaviour:
   WholeNumbers: 1
   UseMultiplier: 1
   Multiplier: 100
-  Prefix: "\u6570\u636E\u52A0\u8F7D\u4E2D "
+  Prefix: 'Asset Data Loading '
   Suffix: '%'
 --- !u!222 &1859584231
 CanvasRenderer:

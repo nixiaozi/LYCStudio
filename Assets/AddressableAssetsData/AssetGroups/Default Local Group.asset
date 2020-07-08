@@ -16,7 +16,11 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 0f5fa8e8f7188c0458ef5e934115fbf4
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 8d784517dc53a6f48a9ae9297190962d
+    m_Address: Assets/Doozy/Examples/Materials/Effects/FireSpikes.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f4d9698c7128c1743b666186baf87705, type: 2}
   m_SchemaSet:
