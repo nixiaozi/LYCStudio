@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3de394b182de8dd44bbb665cadde0c20
+  m_SerializeEntries:
+  - m_GUID: 039156ef17ead2049972aa72b6a9df45
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/BG Walls.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 075efda8440978b4a97a640beb9fe464
+    m_Address: Assets/Doozy/Examples/Icons/Awesome/sign-in-alt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0d222ce8204d44744ba15c6a16f75eb3
+    m_Address: Assets/AllGame/GameRobbie/Fonts/HandRoboto/HandRoboto SDF.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10d163b7d07d2be449ec006f54403d25
+    m_Address: Assets/AllGame/GameRobbie/Props/Sprites/Hanging Lamp.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 131dad442af5a58408eacc878589d1ad
+    m_Address: Assets/AllGame/GameRobbie/VFX/Textures/LightShaft.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 135b1e4597c0435498ba9ebab9362cf2
+    m_Address: Assets/AllGame/GameRobbie/Props/Sprites/Pedestal Diff.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a97e82b85c8b7445be8d31fb13bed3a
+    m_Address: Assets/AllGame/GameRobbie/_Extended/Audio/Extended Mixer.mixer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e4ec98ba4bb0244292ae6c0c26be7f4
+    m_Address: Assets/AllGame/GameRobbie/VFX/Explosion.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26dfd205d90a1f54faae56165790f37a
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Foreground Shadows/Pillar.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30b3742cac5601f48a2e841486fdd078
+    m_Address: Assets/AllGame/GameRobbie/Props/Sprites/Spikes2_diffuse.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37733bcf04d8a0548bac93cd387ee18d
+    m_Address: Assets/AllGame/GameRobbie/_Extended/Props/Sprites/AxeHead_diffuse.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3884aa429490eb24683140f4e5624e71
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Foreground Shadows/Vines2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42d6c540a789a804798393c0ec6c8c36
+    m_Address: Assets/AllGame/GameRobbie/Robbie/Robbie.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b1d93035ede2514882f6dc83ae68509
+    m_Address: Assets/AllGame/GameRobbie/UI/Sprites/Fade Out.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4eed78bdaa9797d4cb50e3822957fc37
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Foreground Shadows/Plant4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52b75d543f41bf84396f050f2459361d
+    m_Address: Assets/AllGame/GameRobbie/VFX/Profiles/Explosion.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 636ed0cdf1aaefb449bb78c764976e04
+    m_Address: Assets/AllGame/GameRobbie/UI/Sprites/DPad Thumb.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64b50a2c061a3244592079301986d35a
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Foreground Shadows/Gate.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6819cb1211043884c957210e9b7da794
+    m_Address: Assets/AllGame/GameRobbie/UI/Sprites/Orb Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f04504c2ec348a459042d5ca15071ef
+    m_Address: Assets/AllGame/GameRobbie/Props/Sprites/Wall Torch Diff.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a092b973237a2643a9100eacc58402e
+    m_Address: Assets/AllGame/GameRobbie/UI/Sprites/Time Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83cb4504b84ec6247a3a124acb17abae
+    m_Address: Assets/AllGame/GameRobbie/UI/Sprites/DPad Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 874592d94aa49c546836b54862923700
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Platforms.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d78b383c69954d41afa50d69b21dac8
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Foreground Shadows/Vines1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 933532a4fcc9baf4fa0491de14d08ed7
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9fd88fe8416f10a4b8c6e929bd6932fe
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Shadows.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0fa5d20d3ae8d042a22aa3b5505590f
+    m_Address: Assets/AllGame/GameRobbie/Level/Sprites/Foreground Shadows/Plant2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a90df309aad5b524fb6e0f7fdbbcd113
+    m_Address: Assets/AllGame/GameRobbie/Props/Sprites/Orb Diff.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa9ea8a48bb27441597c8a4a55e18999
+    m_Address: Assets/AllGame/GameRobbie/VFX/Death Particles.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab0a704536f61f04fbac981354ac7d46
+    m_Address: Assets/AllGame/GameRobbie/_Extended/Props/Sprites/Spikes1_diffuse.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b654d3c8a1918f44baaadef6e22fc267
+    m_Address: Assets/perfabs/UI/InitQuads.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c0c628fda844d2948b03d65f27dfca33
+    m_Address: Assets/AllGame/GameRobbie/Props/Sprites/Door Diff.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c13505851e6d5e04ca9905d7e43f88b1
+    m_Address: Assets/AllGame/GameRobbie/UI/Sprites/Robbie Icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0b6f38fbbad5384db8ce66ce5d6f660
+    m_Address: Assets/Doozy/Examples/Textures/Shapes/SquareFull@48px.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dc541a838530a3c4ea973bee95873230
+    m_Address: Assets/AllGame/GameRobbie/VFX/Profiles/Global Reference.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2f03070d4f222049b4d9a0b9df6f231
+    m_Address: Assets/AllGame/GameRobbie/_Extended/Props/Sprites/AxeHandle_diffuse.psd
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e430d1524aee8a044bd3b9f00f018b16
+    m_Address: Assets/AllGame/GameRobbie/Robbie/Models/Robbie_Body.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6e9a19c3678ded42a3bc431ebef7dbd
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f4d9698c7128c1743b666186baf87705, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc93542f2cbcb27408366127602a8d2e, type: 2}
+    - {fileID: 11400000, guid: 12c14b99bbd9ec646a0498f5c4c05df1, type: 2}

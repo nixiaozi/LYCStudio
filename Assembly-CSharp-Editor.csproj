@@ -63,6 +63,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Coordinate Brush\Scripts\Editor\CoordinateBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\GameObject Brush\Scripts\Editor\GameObjectBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Group Brush\Scripts\Editor\GroupBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Line Brush\Scripts\Editor\LineBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Prefab Brush\Scripts\Editor\PrefabBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Random Brush\Scripts\Editor\RandomBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Tint Brush Smooth\Scripts\Editor\TintBrushSmooth.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Brushes\Tint Brush\Scripts\Editor\TintBrush.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Tiles\Hexagonal Rule Tile\Editor\HexagonalRuleTileEditor.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Tiles\Isometric Rule Tile\Editor\IsometricRuleTileEditor.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Tiles\Rule Override Tile\Scripts\Editor\RuleOverrideTileEditor.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Tiles\Rule Tile\Scripts\Editor\CustomRuleTileMenu.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Addons\Tilemap\Tiles\Rule Tile\Scripts\Editor\RuleTileEditor.cs" />
+    <Compile Include="Assets\AllGame\GameRobbie\Scripts\Editor\MeshRendererEditor.cs" />
     <Compile Include="Assets\Doozy\Editor\Drawers\AnimatorEventDrawer.cs" />
     <Compile Include="Assets\Doozy\Editor\Drawers\DColorDrawer.cs" />
     <Compile Include="Assets\Doozy\Editor\Drawers\MColorDrawer.cs" />

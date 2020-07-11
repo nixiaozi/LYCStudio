@@ -4,13 +4,25 @@ using Doozy.Engine.Touchy;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
+using UnityEngine.ResourceManagement.ResourceProviders;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using static EveryGameList;
 
 public class InitMenu : MonoBehaviour
 {
-    // 这个定义显示的菜单数
-    public int MenuCount = 5;
+
+    public GameItem TheCurrentEntryGame
+    {
+        get
+        {
+            return gameObject.GetComponent<EveryGameList>().AllGames[CurrentRotateCount];
+        }
+    }
 
     //这个是定义需要的菜单对象预制件
     public GameObject MenuItem;
@@ -24,10 +36,18 @@ public class InitMenu : MonoBehaviour
     //表示当前所旋转的总角度数
     private float CurrentRotatedAngle = 0f;
 
+    // 这个定义显示的菜单数
+    private int MenuCount =1;
+
     // Start is called before the first frame update
     void Start()
     {
+        if (CurrentRotateCount != 0)  // 已经进行初始化后就不需要再次初始化了
+            return;
 
+        //初始化获取游戏列表
+        var allgame = gameObject.GetComponent<EveryGameList>().AllGames;
+        MenuCount = allgame.Count;
 
         CurrentRadius = PerRadius * MenuCount;
 
@@ -56,6 +76,14 @@ public class InitMenu : MonoBehaviour
             // 为按钮添加绑定事件
             the.transform.Find("Canvas/Canvas/Panel-EntryButton/Button").GetComponent<Button>().onClick.AddListener(OnClickEntryGame);
 
+            //初始化对象的显示内容
+            the.transform.Find("Canvas/GameName").GetComponent<TextMeshProUGUI>().text = allgame[i].GameName;
+            the.transform.Find("Canvas/Canvas/Panel-GameType/GameTypeStr").GetComponent<TextMeshProUGUI>().text= allgame[i].GameType;
+            the.transform.Find("Canvas/Canvas/Panel-GameResource/GameResourceStr").GetComponent<TextMeshProUGUI>().text = allgame[i].GameResource;
+            the.transform.Find("Canvas/Canvas/Panel-GameInfo/GameInfoStr").GetComponent<TextMeshProUGUI>().text = allgame[i].GameInfo;
+
+
+            //初始化对象的位置
             the.transform.Translate(currentTransVector - originalTransVector);
             the.transform.Rotate(new Vector3(0, -perRotate * i, 0));
             the.transform.SetParent(gameObject.transform,true);
@@ -107,9 +135,19 @@ public class InitMenu : MonoBehaviour
     }
 
 
-    public void OnClickEntryGame()
+    private void OnClickEntryGame()
     {
-        Debug.LogError("Not Complete yet!");
+        Debug.Log("You Enter The Game!"+TheCurrentEntryGame.GameName);
+
+        Addressables.LoadSceneAsync(TheCurrentEntryGame.ReferenceSceneName, UnityEngine.SceneManagement.LoadSceneMode.Single).Completed += OnSceneLoaded;
+
+    }
+
+
+    void OnSceneLoaded(AsyncOperationHandle<SceneInstance> obj)
+    {
+        //Addressables.UnloadSceneAsync(new SceneInstance());
+        // LOGIC THAT KICKSTARTS THE GAMEPLAY
     }
 
 

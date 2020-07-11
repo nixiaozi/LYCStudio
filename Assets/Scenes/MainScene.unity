@@ -184,7 +184,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &555530761
 GameObject:
@@ -248,7 +248,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &900577812
 GameObject:
@@ -260,6 +260,7 @@ GameObject:
   m_Component:
   - component: {fileID: 900577814}
   - component: {fileID: 900577813}
+  - component: {fileID: 900577815}
   m_Layer: 0
   m_Name: InitMenu
   m_TagString: Untagged
@@ -297,68 +298,39 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1421251243
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1421251245}
-  - component: {fileID: 1421251244}
-  m_Layer: 0
-  m_Name: AllGameTypes
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1421251244
+--- !u!114 &900577815
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1421251243}
+  m_GameObject: {fileID: 900577812}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe2cc5ff12d8e404088b42923b73c60a, type: 3}
+  m_Script: {fileID: 11500000, guid: c257a658250fc1a4cbbf97159557f896, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  allGameType:
-  - GameType: "\u52A8\u4F5C\u7C7B"
-    GameTypeImg: {fileID: 21300000, guid: 49a2a460f101f614c819b49201a3977e, type: 3}
-    Games:
-    - GameName: Robbie
-      GameImg: {fileID: 21300000, guid: e1af5f20c6c18604aae4994cd830c696, type: 3}
-      StartScene: RobbieMain
-      GameIntro: This is about Robbie
-    - GameName: Litte Fox
-      GameImg: {fileID: 21300000, guid: 8321cb912a5f1fb40bc358aa372ca358, type: 3}
-      StartScene: LitteFoxMain
-      GameIntro: This  is  abount Fox
-  - GameType: Example
-    GameTypeImg: {fileID: 21300000, guid: ce478b7136b108a4ab7f9d751c11e2a6, type: 3}
-    Games:
-    - GameName: Show it
-      GameImg: {fileID: 21300000, guid: f56e566bd16f7d740abd14a6e15d2b38, type: 3}
-      StartScene: ShowItMain
-      GameIntro: 'this is show it '
---- !u!4 &1421251245
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1421251243}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 388.87448, y: 27.983278, z: -286.375}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  AllGames:
+  - GameName: Robbie
+    GameType: "\u5355\u673A\uFF1B2D\uFF1B\u5192\u9669\u6E38\u620F"
+    GameResource: "\u7F51\u7EDC\uFF08\u517C\u5BB9\u6027\u4FEE\u6539\uFF09"
+    GameInfo: "\u8FD9\u662F\u4E00\u4E2A\u4E3B\u89D2\u6536\u96C6\u5B9D\u73E0\u901A\u5173\u7684\u6E38\u620F\uFF1B\u91CC\u9762\u7684\u5149\u5F71\u6548\u679C\u548C\u97F3\u6548\u52A8\u753B\uFF08\u89D2\u8272\u4F7F\u75282D\u9AA8\u9ABC\u52A8\u753B\uFF09\u90FD\u5F88\u597D"
+  - GameName: Space Walk
+    GameType: "\u5355\u673A\uFF1B2D\uFF1B\u5192\u9669\u6E38\u620F"
+    GameResource: "\u7F51\u7EDC\uFF08\u517C\u5BB9\u6027\u4FEE\u6539\uFF09"
+    GameInfo: "\u8FD9\u662F\u4E00\u4E2A\u4E3B\u89D2\u641C\u96C6\u786C\u5E01\u7684\u6E38\u620F\uFF1B\u8FD9\u91CC\u4F7F\u7528\u4E862\u6BB5\u8DF3\u7684"
+  - GameName: Pong
+    GameType: 
+    GameResource: 
+    GameInfo: 
+  - GameName: 
+    GameType: 
+    GameResource: 
+    GameInfo: 
+  - GameName: 
+    GameType: 
+    GameResource: 
+    GameInfo: 
 --- !u!1 &1511726005
 GameObject:
   m_ObjectHideFlags: 0
